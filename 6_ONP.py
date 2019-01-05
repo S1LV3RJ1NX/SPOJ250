@@ -1,4 +1,3 @@
-# https://www.spoj.com/problems/ONP/
 letters = 'abcdefghijklmnopqrstuvwxyz'
 operators = ['+','-','*','/','^']
 stack = []

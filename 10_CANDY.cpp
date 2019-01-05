@@ -1,5 +1,3 @@
-// https://www.spoj.com/problems/CANDY/
-
 /*
 The candies can only be divided equally, if, the sum of candies is divisible by number of students.
 Then the total number of operations required would be equal to the operations required in making the 

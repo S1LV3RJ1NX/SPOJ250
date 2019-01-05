@@ -1,4 +1,3 @@
-// https://www.spoj.com/problems/PRIME1/
 
 #include <iostream>
 #include <cstring>

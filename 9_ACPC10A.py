@@ -1,5 +1,3 @@
-# https://www.spoj.com/problems/ACPC10A/
-
 while True:
 	x,y,z = map(int, input().split(' '))
 	

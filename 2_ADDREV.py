@@ -1,4 +1,3 @@
-# https://www.spoj.com/problems/ADDREV/
 
 def reverse_no(no):
     new_no = 0

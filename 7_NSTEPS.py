@@ -1,4 +1,3 @@
-# https://www.spoj.com/problems/NSTEPS/
 tc = int(input())
 
 for _ in range(tc):

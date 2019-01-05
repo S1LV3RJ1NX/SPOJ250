@@ -1,4 +1,3 @@
-# https://www.spoj.com/problems/FCTRL2/
 tc = int(input())
 fact = [0]*101
 fact[0] =  1

@@ -1,4 +1,3 @@
-// https://www.spoj.com/problems/SAMER08F/
 #include<iostream>
 
 using namespace std;
